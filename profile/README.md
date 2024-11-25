@@ -98,27 +98,27 @@
     <tr>
       <td align="center">
         <img src="https://github.com/junni01kim.png" width="150" height="150" style="object-fit: cover;"><br>
-        <strong>김명준</strong><br>
+        <strong>KMJ</strong><br>
         <a href="https://github.com/junni01kim">@junni01kim</a>
       </td>
       <td align="center">
         <img src="https://github.com/6-keem.png" width="150" height="150" style="object-fit: cover;"><br>
-        <strong>김상준</strong><br>
+        <strong>KSJ</strong><br>
         <a href="https://github.com/6-keem">@6-keem</a>
       </td>
       <td align="center">
         <img src="https://github.com/KJH0506.png" width="150" height="150" style="object-fit: cover;"><br>
-        <strong>김재호</strong><br>
+        <strong>KJH</strong><br>
         <a href="https://github.com/KJH0506">@KJH0506</a>
       </td>
       <td align="center">
         <img src="https://github.com/HS-JNYLee.png" width="150" height="150" style="object-fit: cover;"><br>
-        <strong>이준희</strong><br>
+        <strong>LJH</strong><br>
         <a href="https://github.com/HS-JNYLee">@HS-JNYLee</a>
       </td>
       <td align="center">
         <img src="https://github.com/codingsimul.png" width="150" height="150" style="object-fit: cover;"><br>
-        <strong>황준익</strong><br>
+        <strong>HJI</strong><br>
         <a href="https://github.com/codingsimul">@codingsimul</a>
       </td>
     </tr>
