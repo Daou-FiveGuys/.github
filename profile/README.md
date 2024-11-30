@@ -63,10 +63,19 @@
 ![캡처_2024_11_30_14_19_48_52](https://github.com/user-attachments/assets/6f074d88-d9dc-421c-b4f6-6666f3e13623)
 
 ### (3) 문자 내역 조회 화면
-[Coming Soon]
+![문자내역조회(1)](https://github.com/user-attachments/assets/3a49bff1-6fe2-4b56-a43a-dac6bd41f9d7)
 
 ### (4) 사용량 조회 화면
-[Coming Soon]
+![사용량조회(1)](https://github.com/user-attachments/assets/1c821cfb-dc14-4e8e-b4c1-cc58c17be87c)
+
+### (5) FAQ 화면
+![FAQ chat](https://github.com/user-attachments/assets/9e42066f-4ee3-4035-bf97-6599bce1f00a)
+
+### (6) 주소록 관리 화면
+![주소록관리](https://github.com/user-attachments/assets/e8554923-de2a-402c-85e5-749d9c423818)
+
+### (7) 예약 문자 관리 화면
+![Group 633026](https://github.com/user-attachments/assets/2bfd21bf-bbc2-495e-87ec-6504be7eaac5)
 
 <br>
 
