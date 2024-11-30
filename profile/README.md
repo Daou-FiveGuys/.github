@@ -1,6 +1,8 @@
 ## 🎨 Pa·Letter - AI를 활용한 챗봇 기반 문자 전송, 이미지 편집 서비스
 배포 url: http://hansung.paletter.click/welcome
 
+![Frame 7212](https://github.com/user-attachments/assets/23692edc-d641-4449-b8bb-71290266fb25)
+
 <br>
 
 ---
