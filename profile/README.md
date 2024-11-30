@@ -1,4 +1,4 @@
-## 🎨 Pa·Letter - 메시지 생성과 발송을 위한 채팅형 서비스
+## 🎨 Pa·Letter - AI를 활용한 챗봇 기반 문자 전송, 이미지 편집 서비스
 배포 url: http://hansung.paletter.click/welcome
 
 <br>
